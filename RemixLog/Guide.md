@@ -1,3 +1,5 @@
 ##### Guide
 
-`RemixLog::getInstance()->start();`
+```c++
+RemixLog::getInstance()->start();
+```
